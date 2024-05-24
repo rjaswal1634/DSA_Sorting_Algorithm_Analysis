@@ -11,13 +11,13 @@ Analyzes the data to answer questions about the relative performance of each alg
 
 Deliverables: ( Also Listed in details in the pdf)
 
-Deliverable 1:
+1. Deliverable 1:
 Four C++ programs implementing each sorting algorithm with a main function for demonstration.
 Screenshots showcasing a sample run of each algorithm.
-Deliverable 2:
+2. Deliverable 2:
 A table summarizing the average number of steps for each algorithm on different input sizes (1K, 5K, 10K, 15K, 20K) for three data distributions (random, sorted ascending, sorted descending).
 A graph depicting the performance of each algorithm for the three data distributions.
-Deliverable 3: (Analysis included in the pdf)
+3. Deliverable 3: (Analysis included in the pdf)
 A report containing the following analysis based on the collected data:
 Which algorithm performs worst when sorting a pre-sorted list (both ascending and descending)?
 Which algorithm performs best on average across all data distributions?
